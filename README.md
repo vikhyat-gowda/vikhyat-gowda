@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vikhyat-gowda
-- 👀 I’m interested in anything related to coding and tech
-- 🌱 I’m currently learning flask, improving my coding skills
+- 👀 Interested in anything related to coding and tech
+- 🌱 😉
 
 <!---
 vikhyat-gowda/vikhyat-gowda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
